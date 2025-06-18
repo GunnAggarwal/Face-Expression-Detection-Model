@@ -30,6 +30,6 @@ Loss Function: Categorical Crossentropy
 Framework: TensorFlow / Keras
 
 # Sample Detection
-Below are sample output showcasing the detection capabilities of the models:
+Below is the sample output showcasing the detection capabilities of the models:
 ![detected emotion](https://github.com/user-attachments/assets/0604116c-c2db-4276-9e5e-38ea7401c2b5)
 
